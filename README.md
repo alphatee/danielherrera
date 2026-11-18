@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/YOUR-USERNAME/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/alphatee/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/YOUR-USERNAME/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
