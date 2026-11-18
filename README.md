@@ -4,18 +4,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## ⚠️ Vulnerability Management Projects
-
+ 
 - **[Vulnerability Management Program Implementation](https://github.com/alphatee/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/alphatee/programmatic-vulnerability-remediations)**
-
+## 🛡️ STIG Implementation
+ 
+- **[Windows 11 DISA STIG Implementations (PowerShell)](https://github.com/alphatee/danielherrera/tree/main/STIGS)**
 ## 🚨 Threat Hunting and Security Operations
-
+ 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/YOUR-USERNAME/threat-hunting-scenario-tor)**
-
 <hr/>
-
 ## 🤳 Connect With Me
-
+ 
 [<img align="left" alt="Daniel Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+ 
 [linkedin]: https://www.linkedin.com/in/daniel-alexander-herrera-307aa4bb/
