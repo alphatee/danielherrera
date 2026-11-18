@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/alphatee/programmatic-vulnerability-remediations)**
 ## 🛡️ STIG Implementation
  
-- **[Windows 11 DISA STIG Implementations (PowerShell)](https://github.com/alphatee/danielherrera/tree/main/STIGS)**
+- **[Windows 11 DISA STIG Implementations (PowerShell)](https://github.com/alphatee/windows-11-stig-remediation)**
 ## 🚨 Threat Hunting and Security Operations
  
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/YOUR-USERNAME/threat-hunting-scenario-tor)**
