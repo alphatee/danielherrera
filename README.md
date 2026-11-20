@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Windows 11 DISA STIG Implementations (PowerShell)](https://github.com/alphatee/windows-11-stig-remediation)**
 ## 🚨 Threat Hunting and Security Operations
  
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/YOUR-USERNAME/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Four Threat Hunt Reports)](https://github.com/alphatee/Threat-Hunts)**
 <hr/>
 ## 🤳 Connect With Me
  
